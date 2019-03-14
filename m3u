@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 ,翡翠HD
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:-1 ,翡翠台
+http://wssource.hls.inke.cn/live/1548660547307276/playlist.m3u8
+#EXTINF:-1 ,TVB明珠台
+rtmp://live9.yshdtv.com:1935/live/12110_ed546539bfa411e792905cb9018cf0d4
+#EXTINF:-1 ,香港电视31台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 ,香港电视31台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_216_av-p.m3u8
+#EXTINF:-1 ,香港电视31台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 ,香港电视31台
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:-1 ,香港电视32台
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+#EXTINF:-1 ,香港电视32台
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:-1 ,香港电视32台
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+#EXTINF:-1 ,天映频道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 ,亚视经典
+https://1c3aecd176429fae1962f229fd51b1d5.live.prod.hkatv.com/a2_cbr_lo.m3u8
+#EXTINF:-1 ,亚视A1
+https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1 ,香港映嘉娱乐MiaoMi-TV儿童频道
+http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://111.13.111.201/112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://111.13.111.202/112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://111.13.111.201/112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://111.13.111.202/112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://live.italkdd.com/cds160/hls/channel002/channel002.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
+#EXTINF:-1 ,凤凰卫视香港台
+http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+#EXTINF:-1 ,凤凰卫视美洲台
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+#EXTINF:-1 ,凤凰卫视美洲台
+http://live.italkdd.com/cds160/hls/channel001/channel001.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+#EXTINF:-1 ,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,阳光卫视
+https://stream.isuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,NOW TV
+http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
+#EXTINF:-1 ,NOW TV
+http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+#EXTINF:-1 ,NOW华剧台
+http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
+#EXTINF:-1 ,TVB无线财经资讯台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1374629935_b224000.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才财经台
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
+#EXTINF:-1 ,耀才财经台
+rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
+#EXTINF:-1 ,新加坡新传媒8频道
+https://ftach8.akamaized.net/out/v1/073dd78a13e94503be38183e2d126d31/index_5.m3u8
+#EXTINF:-1 ,新加坡新传媒8频道
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_3.m3u8
+#EXTINF:-1 ,新加坡新传媒8频道
+https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+#EXTINF:-1 ,新加坡新传媒5频道
+https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_3.m3u8
+#EXTINF:-1 ,新加坡亚洲新闻台
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 ,新唐人电视台
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人亚太
+http://live2.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 ,新唐人美东频道
+https://live2.ntdimg.com/live330/playlist.m3u8
+#EXTINF:-1 ,新唐人美西频道
+http://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 ,新唐人美西频道
+http://live.ntdimg.com/sflive220/playlist.m3u8
+#EXTINF:-1 ,新唐人加东
+http://live.ntdimg.com/mllive220/playlist.m3u8
+#EXTINF:-1 ,新唐人加西
+http://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 ,亚洲旅游台
+http://live.italkdd.
+
+com/cds160/hls/channel007/channel007_2000.m3u8
+#EXTINF:-1 ,亚洲旅游台
+http://live.italkdd.com/cds160/hls/channel007/channel007.m3u8
+#EXTINF:-1 ,优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+#EXTINF:-1 ,优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 ,加拿大中文电视台
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
+#EXTINF:-1 ,加拿大新动力600新闻台
+http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
+#EXTINF:-1 ,加拿大新动力600新闻台
+http://live.italkdd.com/cds160/hls/channel023/channel023.m3u8
+#EXTINF:-1 ,环球电视台
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 ,环球电视台
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,美国中文电视
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 ,美国中文电视
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,美国中文电视
+http://cdnmedia1.sinovision.net/247A45/live/livestream.m3u8
+#EXTINF:-1 ,美国中文电视
+rtmp://media3.sinovision.net:1935/live/livestream
+#EXTINF:-1 ,美国中文电视
+http://live.italkdd.com/cds160/hls/channel009/channel009.m3u8
+#EXTINF:-1 ,美国中文电视
+http://live.italkdd.com/cds160/hls/channel010/channel010.m3u8
+#EXTINF:-1 ,美國創世電視
+http://cdnapi.kaltura.com/p/2050161/sp/205016100/playManifest/entryId/1_mkz6lwog/format/applehttp/protocol/http/uiConfId/38397312/a.m3u8
+#EXTINF:-1 ,香港創世電視
+http://cdnapi.kaltura.com/p/2050161/sp/205016100/playManifest/entryId/1_k5i4l96e/format/applehttp/protocol/http/uiConfId/38397302/a.m3u8
+#EXTINF:-1 ,中华卫视神州台
+http://pull.kapad.cn/live/test/playlist.m3u8
+#EXTINF:-1 ,民视HD
+http://125.227.35.176:18080/ftv/index.m3u8
+#EXTINF:-1 ,民视HD
+http://ax.micaesoft.com/YMitv/YMITV_CN_MS.m3u8
+#EXTINF:-1 ,Roller TV
+http://61.216.177.73/sta/ch1865040.m3u8
+#EXTINF:-1 ,超视美洲台
+http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+#EXTINF:-1 ,超视美洲台
+http://live.italkdd.com/cds160/hls/channel018/channel018.m3u8
+#EXTINF:-1 ,三立台湾台HD
+http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
+#EXTINF:-1 ,三立台湾台HD
+http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
+#EXTINF:-1 ,三立新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 ,三立新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 ,三立都会HD
+http://60.250.69.26:8080/live/setcity89.m3u8
+#EXTINF:-1 ,中天新闻台
+http://120.52.51.25/59.120.242.104:9000/live/live4.m3u8
+#EXTINF:-1 ,纬来日本HD
+http://60.250.23.14:18080/VLJP/index.m3u8
+#EXTINF:-1 ,纬来体育台
+http://125.227.35.176:18080/VLSpot/index.m3u8
+#EXTINF:-1 ,中旺电视
+http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+#EXTINF:-1 ,中旺电视
+http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8
+#EXTINF:-1 ,台视新闻HD
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+#EXTINF:-1 ,台视新闻HD
+http://live.italkdd.com/cds160/hls/channel006/channel006.m3u8
+#EXTINF:-1 ,台视新闻HD
+http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
+#EXTINF:-1 ,台视新闻HD
+http://live.italkdd.com/cds160/hls/channel011/channel011.m3u8
+#EXTINF:-1 ,寰宇新聞台
+http://120.52.51.72/59.120.242.104:9000/live/live13.m3u8
+#EXTINF:-1 ,寰宇新聞台
+http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8
+#EXTINF:-1 ,寰宇新聞台
+http://btsu4k5-hisng.cdn.hinet.net:8080/live/pool/litv-longturn14/litv-pc/index.m3u8
+#EXTINF:-1 ,寰宇新聞台
+http://59.120.242.104:9000/live/live13.m3u8
+#EXTINF:-1 ,非凡新闻HD
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+#EXTINF:-1 ,非凡新闻HD
+http://live.italkdd.com/cds160/hls/channel013/channel013.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 ,华视新闻资讯HD
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+#EXTINF:-1 ,华视新闻资讯HD
+http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+#EXTINF:-1 ,民视新闻台HD
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 ,民视新闻台
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+#EXTINF:-1 ,民视新闻台
+http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
