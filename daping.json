@@ -19,7 +19,798 @@ itemid": "频道分类",
             "itemid": "频道分类",
             "num":"1003",
             "name": "無線新聞台",
+            "urllist":{"live":[
+            {
+itemid": "频道分类",
+            "num":"1001",
+            "name": "科幻电影",
             "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625204865"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1002",
+            "name": "激情夜场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625188208"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1003",
+            "name": "追剧少女",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=617432318"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1004",
+            "name": "怀旧老片",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=621640582"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1005",
+            "name": "武侠剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=627198822"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1006",
+            "name": "动漫剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=627198751"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1007",
+            "name": "假期剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=627198692"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1008",
+            "name": "高分影院",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=627198191"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1009",
+            "name": "国际剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625542365"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1010",
+            "name": "热剧联播",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=629943613"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1011",
+            "name": "高清大片",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=629943678"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1012",
+            "name": "军旅剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625643517"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1013",
+            "name": "谍战剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=634274665"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1014",
+            "name": "经典剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625542369"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1015",
+            "name": "精品剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=615810094"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1016",
+            "name": "名著剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625498431"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1017",
+            "name": "影视高清",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=617432495"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1018",
+            "name": "精品剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=615810094"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1019",
+            "name": "健康中国",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=626168301"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1020",
+            "name": "新片剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=619495952"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1021",
+            "name": "经典放映",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=626157538"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1022",
+            "name": "射雕剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625681367"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1023",
+            "name": "包青天",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625521420"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1024",
+            "name": "金庸剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625774640"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1025",
+            "name": "小戏骨剧场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625526423"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1026",
+            "name": "华视劲片",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=624999147"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1027",
+            "name": "精品国产",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625574378"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1028",
+            "name": "笑傲江湖",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625759558"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1029",
+            "name": "鹿鼎记",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625681368"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1030",
+            "name": "刘涛作品",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=625514969"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1031",
+            "name": "破案现场",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=627033503"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1032",
+            "name": "东方电影高清",
+            "urllist":
+            "http://live.gxroad.com/ls/mg.php?id=623674834"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1033",
+            "name": "我就是演员",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/246/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1034",
+            "name": "中国蓝晚会",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/123_31665/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1035",
+            "name": "中国新歌声",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/118_16379/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1036",
+            "name": "奔跑吧兄弟2",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/157_41072/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1037",
+            "name": "中国好声音",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/117_87549/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1038",
+            "name": "梦想中国蓝",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/122_70935/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1039",
+            "name": "好看中国蓝",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/120_31467/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1040",
+            "name": "王牌大综艺",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/119_66181/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1041",
+            "name": "二十四小时",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/121_19835/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1042",
+            "name": "学而思",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/204_62578/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1043",
+            "name": "办公室小野",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1044",
+            "name": "大胃王朵一",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1045",
+            "name": "非常静距离",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/183/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1046",
+            "name": "大牌综艺",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/132_78495/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1047",
+            "name": "晚会流行",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/139/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1048",
+            "name": "音乐MV",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1049",
+            "name": "戏剧曲艺",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/138_31073/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1050",
+            "name": "宝宝巴士",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1051",
+            "name": "幼儿绘本",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/187_77300/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1052",
+            "name": "奥特曼大全",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/115_34248/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1053",
+            "name": "玩具世界",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/161_97907/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1054",
+            "name": "小马宝莉",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/113_75645/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1055",
+            "name": "哈喽葡星人",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/108_39062/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1056",
+            "name": "热血机甲",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/110_73153/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1057",
+            "name": "公主城堡",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/111_66062/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1058",
+            "name": "新闻1+1",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1059",
+            "name": "国际纵览",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/152_28516/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1060",
+            "name": "朝闻天下",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/169_46637/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1061",
+            "name": "专栏报道",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/155_57138/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1062",
+            "name": "经济半小时",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1063",
+            "name": "世界周刊",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1064",
+            "name": "看东方",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1065",
+            "name": "24小时",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/250/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1066",
+            "name": "院线大片",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/100_93326/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1067",
+            "name": "票房佳作",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1068",
+            "name": "浪漫爱情",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1069",
+            "name": "欧美冒险",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/156_40178/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1070",
+            "name": "惊悚悬疑",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1071",
+            "name": "动漫电影",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/106_90412/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1072",
+            "name": "好莱坞大赏",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1073",
+            "name": "热门网大",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1074",
+            "name": "我的世界",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/249/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1075",
+            "name": "S8总决赛",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1076",
+            "name": "斗鱼主播课",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/238/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1077",
+            "name": "徐老师来巡山",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1078",
+            "name": "峡谷重案组",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1079",
+            "name": "LPL联赛",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/174/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1080",
+            "name": "吃鸡战场",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/265/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1081",
+            "name": "一起来吃鸡",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/173_40540/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1082",
+            "name": "刀塔永不倒",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/147_30879/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1083",
+            "name": "CF集锦",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/145_92974/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1084",
+            "name": "王者必修课",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/141_83622/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1085",
+            "name": "STN快报",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/146_38303/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1086",
+            "name": "KPL集锦",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/143_98620/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1087",
+            "name": "Miss排位日记",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/140_48577/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1088",
+            "name": "情感生活",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1089",
+            "name": "百看不厌",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1090",
+            "name": "热血抗战",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1091",
+            "name": "心动剧场",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1092",
+            "name": "TVB神剧",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1093",
+            "name": "青春偶像",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/96_98383/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1094",
+            "name": "学警雄心",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/97_68611/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1095",
+            "name": "少林问道",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/160_87304/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1096",
+            "name": "生活杂谈",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1097",
+            "name": "自然世界",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1098",
+            "name": "科教人文",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/126_63587/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1099",
+            "name": "军事纪实",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/125_11728/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1100",
+            "name": "大国时代",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/124_74884/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1101",
+            "name": "历史解密",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/127_45151/index.m3u8
+"
+    },
+{
+            "itemid": "频道分类",
+            "num":"1102",
+            "name": "社会真相",
+            "urllist":
+            "http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8"
+    },],
+"type": [{
+"id":"频道分类",
+"name":"勿忘我央视" 
+},
+{
+"id":"频道分类2",
+"name":"勿忘我卫视"
+}]}
             "p2p://170.178.164.245:6190/5b448a930006507800029caab508f093.ts
 "
     },
