@@ -1,0 +1,1874 @@
+{
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "﻿翡翠台",
+            "num": "0001",
+            "urllist": "P2p://170.178.164.245:6190/5b448a91000047c10002934f41cb6082.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "J2",
+            "num": "0002",
+            "urllist": "P2p://170.178.164.245:6190/5b448a950004bbab0002a412dbffb5ec.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "無線新聞台",
+            "num": "0003",
+            "urllist": "P2p://170.178.164.245:6190/5b448a930006507800029caab508f093.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "無線財經台",
+            "num": "0004",
+            "urllist": "P2p://170.178.164.245:6190/5b448a96000f11970002aaa06ecc5ea8.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "VIU TV",
+            "num": "0005",
+            "urllist": "P2p://170.178.164.245:6190/5b448a9900033e460002b351d0ca1986.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "明珠台",
+            "num": "0006",
+            "urllist": "P2p://170.178.164.245:6190/5b448a9b00065a1c0002bbeca1c23cdf.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "星衛電影",
+            "num": "0007",
+            "urllist": "P2p://170.178.164.245:6190/5b448b73000b5a35000608f49ed78559.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "鳳凰資訊",
+            "num": "0008",
+            "urllist": "P2p://170.178.164.245:6190/5b448bc3000926a6000740e496025b38.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "鳳凰衛視",
+            "num": "0009",
+            "urllist": "P2p://170.178.164.245:6190/5b448bc0000058bb000732eb1ad7efc1.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "鳳凰香港",
+            "num": "0010",
+            "urllist": "P2p://170.178.164.245:6190/5b448bc1000c9712000739f56c70ae4f.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "奇妙電視中文台",
+            "num": "0011",
+            "urllist": "P2p://170.178.164.245:6190/5b449174000d4931001d7d5b304a8a2f.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NOW香港台",
+            "num": "0012",
+            "urllist": "P2p://170.178.164.245:6190/5b448d7c000015f0000df93ac6d9b9d2.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "公視",
+            "num": "0013",
+            "urllist": "P2p://170.178.164.245:6190/5b448aa7000c61140002ec5760977f68.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中視",
+            "num": "0014",
+            "urllist": "P2p://170.178.164.245:6190/5b448aa40003a2a20002de6276529b37.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "台視",
+            "num": "0015",
+            "urllist": "P2p://170.178.164.245:6190/5b448aa9000d9ca10002f478188a9c00.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "華視",
+            "num": "0016",
+            "urllist": "P2p://170.178.164.245:6190/5b448aa5000eb92c0002e5218bacf6c4.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "民視新聞台",
+            "num": "0017",
+            "urllist": "P2p://170.178.164.245:6190/5b448aaf0007ce1d00030a6cbaabb840.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "民視",
+            "num": "0018",
+            "urllist": "P2p://170.178.164.245:6190/5b448aad0008d5b1000302df609a74bb.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "年代新聞",
+            "num": "0019",
+            "urllist": "P2p://170.178.164.245:6190/5b448ac9000c8c0600037132945b4b8d.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "非凡新聞",
+            "num": "0020",
+            "urllist": "P2p://170.178.164.245:6190/5b448acb0008b75500037807efc157a9.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "三立新聞",
+            "num": "0021",
+            "urllist": "P2p://170.178.164.245:6190/5b448af20006453800040fbf61bdc785.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "三立都會",
+            "num": "0022",
+            "urllist": "P2p://170.178.164.245:6190/5b448aee000b64fe0004016fc2f58a51.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "三立台灣",
+            "num": "0023",
+            "urllist": "P2p://170.178.164.245:6190/5b448af00007592b000408362b50af9a.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來綜合",
+            "num": "0024",
+            "urllist": "P2p://170.178.164.245:6190/5b448b060007b6bc00045e3e1eac57d1.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來電影",
+            "num": "0025",
+            "urllist": "P2p://170.178.164.245:6190/5b448afc0007f4650004373eda7b4dd8.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來日本",
+            "num": "0026",
+            "urllist": "P2p://170.178.164.245:6190/5b448afe000e543e000440af5787096b.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來戲劇",
+            "num": "0027",
+            "urllist": "P2p://170.178.164.245:6190/5b448b02000b754100044f93bc89afe8.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中天綜合",
+            "num": "0028",
+            "urllist": "P2p://170.178.164.245:6190/5b448ab6000b1df80003269dea2f6276.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來育樂",
+            "num": "0029",
+            "urllist": "P2p://170.178.164.245:6190/5b448b04000713f900045644b26c63f7.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中天新聞",
+            "num": "0030",
+            "urllist": "P2p://170.178.164.245:6190/5b448ab10008ebac00031285e3ce5884.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來體育",
+            "num": "0031",
+            "urllist": "P2p://170.178.164.245:6190/5b448b00000bde4a000447defe1b3755.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中天娛樂",
+            "num": "0032",
+            "urllist": "P2p://170.178.164.245:6190/5b448ab5000067d700031ff79ba7a020.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "好消息2台",
+            "num": "0033",
+            "urllist": "P2p://170.178.164.245:6190/5b448b1800077c9a0004a47f41ae9a7d.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "國興衛視",
+            "num": "0034",
+            "urllist": "P2p://170.178.164.245:6190/5b448c010005e41a0008323effb952e2.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "好消息1台",
+            "num": "0035",
+            "urllist": "P2p://170.178.164.245:6190/5b448b170000ea4e00049ee807d2be3b.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "壹電視綜合",
+            "num": "0036",
+            "urllist": "P2p://170.178.164.245:6190/5b448b21000100f40004c5fe1bf2744a.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "大愛電視",
+            "num": "0037",
+            "urllist": "P2p://170.178.164.245:6190/5b448b1a000112b80004aaabf5b35d22.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "大愛2台",
+            "num": "0038",
+            "urllist": "P2p://170.178.164.245:6190/5b448b1b000cb8b60004b18e685f53a2.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "壹電視新聞",
+            "num": "0039",
+            "urllist": "P2p://170.178.164.245:6190/5b448b1f000a512e0004c090ae962d24.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森戲劇",
+            "num": "0040",
+            "urllist": "P2p://170.178.164.245:6190/5b448ad7000ca7fa0003a7ea8c68a2a5.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森幼幼",
+            "num": "0041",
+            "urllist": "P2p://170.178.164.245:6190/5b448adc000b55ea0003bb1b26aa5146.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森電影",
+            "num": "0042",
+            "urllist": "P2p://170.178.164.245:6190/5b448ad5000c87a00003a011149a0fd6.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森綜合",
+            "num": "0043",
+            "urllist": "P2p://170.178.164.245:6190/5b448ade00074fc80003c1e37139bf2d.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森洋片",
+            "num": "0044",
+            "urllist": "P2p://170.178.164.245:6190/5b448ada000eace70003b4262855abcb.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森新聞",
+            "num": "0045",
+            "urllist": "P2p://170.178.164.245:6190/5b448ad9000732770003ae545bf7ba34.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "東森財經",
+            "num": "0046",
+            "urllist": "P2p://170.178.164.245:6190/5b448ad3000c31050003982bead68565.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龍祥電影",
+            "num": "0047",
+            "urllist": "P2p://170.178.164.245:6190/5b448aeb00033a520003f3a09f77e57c.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "八大第一台",
+            "num": "0048",
+            "urllist": "P2p://170.178.164.245:6190/5b448acd000c3e4a000380bfd15d0e71.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "靖洋戲劇",
+            "num": "0049",
+            "urllist": "P2p://170.178.164.245:6190/5b448b3d00044e9300053436aad65a82.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "八大娛樂",
+            "num": "0050",
+            "urllist": "P2p://170.178.164.245:6190/5b448acf00068d520003871a745f657b.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "八大綜合",
+            "num": "0051",
+            "urllist": "P2p://170.178.164.245:6190/5b448ad1000a142700038fd1f37a008d.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "TVBS歡樂台",
+            "num": "0052",
+            "urllist": "P2p://170.178.164.245:6190/5b448ac3000cfffb000359e03ca0079e.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "TVBS新聞台",
+            "num": "0053",
+            "urllist": "P2p://170.178.164.245:6190/5b448ac60001d03f000362bbff6cda28.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "TVBS綜合台",
+            "num": "0054",
+            "urllist": "P2p://170.178.164.245:6190/5b448ac8000253d200036aad4e7ad27a.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龍華洋片",
+            "num": "0055",
+            "urllist": "P2p://170.178.164.245:6190/5b448ae70008b8050003e568b81835da.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龍華電影",
+            "num": "0056",
+            "urllist": "P2p://170.178.164.245:6190/5b448ae0000266c00003c872b5c37b03.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龍華動畫",
+            "num": "0057",
+            "urllist": "P2p://170.178.164.245:6190/5b448ae2000cc8050003d2ea0887d7c1.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龍華戲劇",
+            "num": "0058",
+            "urllist": "P2p://170.178.164.245:6190/5b448ae600030e720003e00d7e9e895c.ts"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龍華偶像",
+            "num": "0059",
+            "urllist": "P2p://170.178.164.245:6190/5b448ae40006f1560003d93b47244f87.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "深圳電視劇高清",
+            "num": "0060",
+            "urllist": "P2p://170.178.164.245:6190/5b448bc5000be49b00074968f74c6ed9.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "深圳都市高清",
+            "num": "0061",
+            "urllist": "P2p://170.178.164.245:6190/5b448bc700090db80007507ee8514c51.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "廣東珠江台",
+            "num": "0062",
+            "urllist": "P2p://170.178.164.245:6190/5b448bcc0007c2e6000763b1393f41ae.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "廣東體育",
+            "num": "0063",
+            "urllist": "P2p://170.178.164.245:6190/5b448bce0004df9d00076ac4da8a5804.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-1 綜合",
+            "num": "0064",
+            "urllist": "P2p://170.178.164.245:6190/5b448b9e0001bfd50006ae77e47391e8.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-2 財經",
+            "num": "0065",
+            "urllist": "P2p://170.178.164.245:6190/5b448b9f0008d8d90006b4304bd85e85.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-3 綜藝",
+            "num": "0066",
+            "urllist": "P2p://170.178.164.245:6190/5b448ba10004e3750006bafd29204f41.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-4 國際",
+            "num": "0067",
+            "urllist": "P2p://170.178.164.245:6190/5b448ba3000529290006c2deaed00331.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-5 體育",
+            "num": "0068",
+            "urllist": "P2p://170.178.164.245:6190/5b448ba500005cc90006c974405b6d5d.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-5+體育賽事",
+            "num": "0069",
+            "urllist": "P2p://170.178.164.245:6190/5b448ba90000800a0006d91dd4fd681a.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-6 電影",
+            "num": "0070",
+            "urllist": "P2p://170.178.164.245:6190/5b448bab0008606c0006e2f14e797e56.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-7 軍事農業",
+            "num": "0071",
+            "urllist": "P2p://170.178.164.245:6190/5b448bae000094900006ecaa67489aac.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-8 電視劇",
+            "num": "0072",
+            "urllist": "P2p://170.178.164.245:6190/5b448baf000d9d190006f3e82fb38697.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-9 記錄",
+            "num": "0073",
+            "urllist": "P2p://170.178.164.245:6190/5b448bb1000ad4d00006fb02e786335d.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-10 科教",
+            "num": "0074",
+            "urllist": "P2p://170.178.164.245:6190/5b448bb30007d5ac0007020e24b8b2f8.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-11 戲曲",
+            "num": "0075",
+            "urllist": "P2p://170.178.164.245:6190/5b448bb500078120000709c855009a49.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-12 社會與法",
+            "num": "0076",
+            "urllist": "P2p://170.178.164.245:6190/5b448bb70008cc9c000711edf4365888.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-13 新聞",
+            "num": "0077",
+            "urllist": "P2p://170.178.164.245:6190/5b448bb8000e9d8500071752aa265e5a.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-14 少兒",
+            "num": "0078",
+            "urllist": "P2p://170.178.164.245:6190/5b448bba000b641a00071e4f69d38334.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-15 音樂",
+            "num": "0079",
+            "urllist": "P2p://170.178.164.245:6190/5b448bbc000e1f0d000726d215b19e04.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CCTV-高爾夫網球",
+            "num": "0080",
+            "urllist": "P2p://170.178.164.245:6190/5b448c4800045e9600094733622af888.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "廣西衛視",
+            "num": "0081",
+            "urllist": "P2p://170.178.164.245:6190/5b448be80008a7090007d14b6bb1bd4b.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "北京衛視高清",
+            "num": "0082",
+            "urllist": "P2p://170.178.164.245:6190/5b448bea000922570007d93bc21d9678.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "東南衛視",
+            "num": "0083",
+            "urllist": "P2p://170.178.164.245:6190/5b448bdc0008122c0007a2452f89e837.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江蘇衛視高清",
+            "num": "0084",
+            "urllist": "P2p://170.178.164.245:6190/5b448be300083c060007bda8703a3675.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "廣東衛視高清",
+            "num": "0085",
+            "urllist": "P2p://170.178.164.245:6190/5b448be6000a62f60007c9edb944b68b.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "浙江衛視高清",
+            "num": "0086",
+            "urllist": "P2p://170.178.164.245:6190/5b448be000041d420007b0e2bd705815.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "深圳衛視高清",
+            "num": "0087",
+            "urllist": "P2p://170.178.164.245:6190/5b448bca000b691900075cd07e96a3f4.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "東方衛視高清",
+            "num": "0088",
+            "urllist": "P2p://170.178.164.245:6190/5b448bda000b442800079b47eb2bbd15.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "湖南衛視高清",
+            "num": "0089",
+            "urllist": "P2p://170.178.164.245:6190/5b448bde0004ef320007a94860cb6c0e.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "廣東新聞",
+            "num": "0090",
+            "urllist": "P2p://170.178.164.245:6190/5b448d91000b1b87000e4e143fc6bb69.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "TVS南方衛視1",
+            "num": "0091",
+            "urllist": "P2p://170.178.164.245:6190/5b448d860007d67f000e2246703ea6fd.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "TVS南方衛視2",
+            "num": "0092",
+            "urllist": "P2p://170.178.164.245:6190/5b448d89000673c9000e2da32be3773f.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "TVS南方衛視3",
+            "num": "0093",
+            "urllist": "P2p://170.178.164.245:6190/5b448d8c000a7319000e3a6144721d3b.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "TVS南方衛視4",
+            "num": "0094",
+            "urllist": "P2p://170.178.164.245:6190/5b448d8e00065e99000e412670b7ec66.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "TVS南方衛視5",
+            "num": "0095",
+            "urllist": "P2p://170.178.164.245:6190/5b448d8f000dfb9d000e4701d1c680aa.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CHC動作電影",
+            "num": "0096",
+            "urllist": "P2p://170.178.164.245:6190/5b448b800009bccd00063b524ddee6e2.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "CHC高清電影台",
+            "num": "0097",
+            "urllist": "P2p://170.178.164.245:6190/5b448b82000167b10006410007996e81.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "TLC旅遊生活",
+            "num": "0098",
+            "urllist": "P2p://170.178.164.245:6190/5b448b6800072a540005dcea41d89cc1.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "衛視中文台",
+            "num": "0099",
+            "urllist": "P2p://170.178.164.245:6190/5b448b71000bfae80006014d0d1276a0.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "衛視洋片",
+            "num": "0100",
+            "urllist": "P2p://170.178.164.245:6190/5b448b6e0003a7ae0005f374d458494d.ts"
+        },
+        {
+            "itemid": "uid01",
+            "name": "EYE旅遊",
+            "num": "0101",
+            "urllist": "P2p://170.178.164.245:6190/5b448ac00009d0da00034d57b5b416b7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Bloomberg",
+            "num": "0102",
+            "urllist": "P2p://170.178.164.245:6190/5b448b5b000478af0005a971253e52e3.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Outdoor",
+            "num": "0103",
+            "urllist": "P2p://170.178.164.245:6190/5b448b43000d442d00054df2492858db.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "FOX Action Movie",
+            "num": "0104",
+            "urllist": "P2p://170.178.164.245:6190/5b448b8900037a2800065ce053df68a2.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "FOX Crime",
+            "num": "0105",
+            "urllist": "P2p://170.178.164.245:6190/5b448b8c00049b8b000668e27ffde1c8.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "FOX HD",
+            "num": "0106",
+            "urllist": "P2p://170.178.164.245:6190/5b448b85000e824f000650137eec83be.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "FOOD NETWORK",
+            "num": "0107",
+            "urllist": "P2p://170.178.164.245:6190/5b44916c000acb2f001d5d78fc6a75a9.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "HBO Signiture",
+            "num": "0108",
+            "urllist": "P2p://170.178.164.245:6190/5b448b93000a28e3000685a6165554f2.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "HBO Family",
+            "num": "0109",
+            "urllist": "P2p://170.178.164.245:6190/5b448b900000726d00067771611725e9.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "HBO Hit",
+            "num": "0110",
+            "urllist": "P2p://170.178.164.245:6190/5b448b91000e6ec600067eee5dba6759.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "HBO HD",
+            "num": "0111",
+            "urllist": "P2p://170.178.164.245:6190/5b448b8e00066b2f00067129d95e17c6.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Discovery",
+            "num": "0112",
+            "urllist": "P2p://170.178.164.245:6190/5b448b0d0007df8b000479a05064194b.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Discovery MAX",
+            "num": "0113",
+            "urllist": "P2p://170.178.164.245:6190/5b448b080002b026000464c43db4306d.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Discovery Science",
+            "num": "0114",
+            "urllist": "P2p://170.178.164.245:6190/5b448b0b000dcd2900047355b8b537fe.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NatGeo Wild",
+            "num": "0115",
+            "urllist": "P2p://170.178.164.245:6190/5b448b1100098e33000489ae17c04fd4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NatGeo Music",
+            "num": "0116",
+            "urllist": "P2p://170.178.164.245:6190/5b448b130003787b00048ff04292d865.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NatGeo",
+            "num": "0117",
+            "urllist": "P2p://170.178.164.245:6190/5b448b0f0009ee81000481f76d314a03.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NatGeo People",
+            "num": "0118",
+            "urllist": "P2p://170.178.164.245:6190/5b448b1500005bf3000496f4896802b5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Sino Vision",
+            "num": "0119",
+            "urllist": "P2p://170.178.164.245:6190/5b448e510007c8d800113b3accb3c588.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CNN NEWS",
+            "num": "0120",
+            "urllist": "P2p://170.178.164.245:6190/5b448c51000170fc0009699b2f2431ac.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BBC News",
+            "num": "0121",
+            "urllist": "P2p://170.178.164.245:6190/5b448c4f0006b09c0009632361c16d91.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CNBC News",
+            "num": "0122",
+            "urllist": "P2p://170.178.164.245:6190/5b448c52000ef18c000970f808914d2d.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NHK News",
+            "num": "0123",
+            "urllist": "P2p://170.178.164.245:6190/5b448d9300034630000e53e3793827f5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Disney Channel",
+            "num": "0124",
+            "urllist": "P2p://170.178.164.245:6190/5b448c2500004bee0008bd70e7751913.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Fashion TV",
+            "num": "0125",
+            "urllist": "P2p://170.178.164.245:6190/5b448d9a000637c0000e6ffc540001f4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TV5 monde",
+            "num": "0126",
+            "urllist": "P2p://170.178.164.245:6190/5b448c3f000bcda0000925f27e8c53cc.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "FOX Family Movies",
+            "num": "0127",
+            "urllist": "P2p://170.178.164.245:6190/5b448b8a000b4520000662c78da43d1b.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Universal Channel",
+            "num": "0128",
+            "urllist": "P2p://170.178.164.245:6190/5b448d810005fb43000e0e449fcdd720.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "History",
+            "num": "0129",
+            "urllist": "P2p://170.178.164.245:6190/5b448af90001d6c0000429f54086b507.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "History 2",
+            "num": "0130",
+            "urllist": "P2p://170.178.164.245:6190/5b448afb00014d4d000431a2353665fe.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "歐洲足球",
+            "num": "0131",
+            "urllist": "P2p://170.178.164.245:6190/5b448c080005c58a00084d8e3f2d66dd.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NBA",
+            "num": "0132",
+            "urllist": "P2p://170.178.164.245:6190/5b448c1e0003dd4f0008a301c298d4a6.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Golf",
+            "num": "0133",
+            "urllist": "P2p://170.178.164.245:6190/5b448c46000a6b3b000940ef9f602ec4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "博斯運動",
+            "num": "0134",
+            "urllist": "P2p://170.178.164.245:6190/5b448af70005aa6b00042320f433c322.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "博斯高球",
+            "num": "0135",
+            "urllist": "P2p://170.178.164.245:6190/5b448af40002acab000416a3f895a60b.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "新視覺.英超",
+            "num": "0136",
+            "urllist": "P2p://170.178.164.245:6190/5b448c0b000f019c00085ba481057c91.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Asn Sports",
+            "num": "0137",
+            "urllist": "P2p://170.178.164.245:6190/5b448b4b0006ad5700056b82612a4876.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "ELTA足球",
+            "num": "0138",
+            "urllist": "P2p://170.178.164.245:6190/5b448abd000c83de0003425049fc4d20.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CATCH PLAY",
+            "num": "0139",
+            "urllist": "P2p://170.178.164.245:6190/5b448b23000975f80004cff808e14df0.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Fox sports",
+            "num": "0140",
+            "urllist": "P2p://170.178.164.245:6190/5b448c6000031cd60009a4a052d37cc4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Fox sports 2",
+            "num": "0141",
+            "urllist": "P2p://170.178.164.245:6190/5b448c61000eb4b40009ab8044881496.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Fox sports 3",
+            "num": "0142",
+            "urllist": "P2p://170.178.164.245:6190/5b448c63000c1bc50009b2a692c44501.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Skynet英超",
+            "num": "0143",
+            "urllist": "P2p://170.178.164.245:6190/5b448c7b00099886000a0fc16773cef5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SkyNET Sports 1",
+            "num": "0144",
+            "urllist": "P2p://170.178.164.245:6190/5b448c710002d27e0009e6f57f5fbf01.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SkyNET Sports 2",
+            "num": "0145",
+            "urllist": "P2p://170.178.164.245:6190/5b448c72000b50e00009ed0af8fc3105.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SkyNET Sports 3",
+            "num": "0146",
+            "urllist": "P2p://170.178.164.245:6190/5b448c74000933960009f44f1db8f430.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SkyNET Sports 4",
+            "num": "0147",
+            "urllist": "P2p://170.178.164.245:6190/5b448c760004d4660009fb016c8edf07.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SkyNET Sports 5",
+            "num": "0148",
+            "urllist": "P2p://170.178.164.245:6190/5b448c780003d0c0000a028e51218c1a.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SkyNET Sports 6",
+            "num": "0149",
+            "urllist": "P2p://170.178.164.245:6190/5b448c7a0001fee5000a09e70a9c60fe.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SKY SPORT 1",
+            "num": "0150",
+            "urllist": "P2p://170.178.164.245:6190/5b448c65000b8c6e0009ba5107288360.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SKY SPORT 2",
+            "num": "0151",
+            "urllist": "P2p://170.178.164.245:6190/5b448c67000523aa0009c07dc27c910b.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SKY SPORT 3",
+            "num": "0152",
+            "urllist": "P2p://170.178.164.245:6190/5b448c690003be880009c7f25cb42fe7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SKY SPORT 4",
+            "num": "0153",
+            "urllist": "P2p://170.178.164.245:6190/5b448c6b0002a40d0009cf7921ee88ec.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SKY SPORT 5",
+            "num": "0154",
+            "urllist": "P2p://170.178.164.245:6190/5b448c6c000da02b0009d6313624d19f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BT SPORT 1",
+            "num": "0155",
+            "urllist": "P2p://170.178.164.245:6190/5b448c5b0007d2460009924d3c292fd8.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BT SPORT 2",
+            "num": "0156",
+            "urllist": "P2p://170.178.164.245:6190/5b448c5c000e0b52000997cdeeacbeb0.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BT SPORT 3",
+            "num": "0157",
+            "urllist": "P2p://170.178.164.245:6190/5b448c5e0004fce700099d4bec165b91.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Bein Sport 1",
+            "num": "0158",
+            "urllist": "P2p://170.178.164.245:6190/5b448c55000172800009793bb975dc99.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Bein Sport 2",
+            "num": "0159",
+            "urllist": "P2p://170.178.164.245:6190/5b448c56000ec39e0009808cb3ac59d7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Bein Sport 3",
+            "num": "0160",
+            "urllist": "P2p://170.178.164.245:6190/5b448c58000bd2eb0009879bd9582d81.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Bein Sport 4",
+            "num": "0161",
+            "urllist": "P2p://170.178.164.245:6190/5b448c5a000221e400098cf0f492a552.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "AXN-CN",
+            "num": "0162",
+            "urllist": "P2p://170.178.164.245:6190/5b448c2c000932840008db0fba590a7e.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Star Sports1",
+            "num": "0163",
+            "urllist": "P2p://170.178.164.245:6190/5b448e48000b79e7001119048a7c661f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Star Sports2",
+            "num": "0164",
+            "urllist": "P2p://170.178.164.245:6190/5b448e4a000d83b90011215a8e4a8c2d.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Kids",
+            "num": "0165",
+            "urllist": "P2p://170.178.164.245:6190/5b448e24000c08da00108c899b98e551.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Baby TV",
+            "num": "0166",
+            "urllist": "P2p://170.178.164.245:6190/5b448d9c0001702b000e769201e1df0d.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MOMO親子台",
+            "num": "0167",
+            "urllist": "P2p://170.178.164.245:6190/5b448b400000f7ba00053f141b4f44a0.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CN卡通 HD",
+            "num": "0168",
+            "urllist": "P2p://170.178.164.245:6190/5b448c3400001b440008f7fbaeac091c.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NHK総合",
+            "num": "0169",
+            "urllist": "P2p://170.178.164.245:6190/5b66be7600064ed5034e22f1087cf603.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NHK Eテレ",
+            "num": "0170",
+            "urllist": "P2p://170.178.164.245:6190/5b66bee900020a0a034fe3112ff01f3e.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BS日テレ",
+            "num": "0171",
+            "urllist": "P2p://170.178.164.245:6190/5b66c0570005e560035579be4f33c110.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "テレビ朝日",
+            "num": "0172",
+            "urllist": "P2p://170.178.164.245:6190/5b66c2e200051fb3035f68846eebe489.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "テレビ東京",
+            "num": "0173",
+            "urllist": "P2p://170.178.164.245:6190/5b66c2bc0005e3af035ed44615c75ef5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "フジテレビ",
+            "num": "0174",
+            "urllist": "P2p://170.178.164.245:6190/5b66bf38000062520351173de9e882e9.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TOKYO MX",
+            "num": "0175",
+            "urllist": "P2p://170.178.164.245:6190/5b66bf5a00057c8103519d5b224874c2.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NHK総合大阪",
+            "num": "0176",
+            "urllist": "P2p://170.178.164.245:6190/5b66bf810008a6ef0352368383173540.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "読売テレビ",
+            "num": "0177",
+            "urllist": "P2p://170.178.164.245:6190/5b66c020000d53610354a4cdd21eadd8.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "関西テレビ",
+            "num": "0178",
+            "urllist": "P2p://170.178.164.245:6190/5b66c2950009d788035e3cf131253a69.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "朝日放送",
+            "num": "0179",
+            "urllist": "P2p://170.178.164.245:6190/5b66bfba000a48c9035315965f5ca627.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "テレビ大阪",
+            "num": "0180",
+            "urllist": "P2p://170.178.164.245:6190/5b66bffb000cc68f035414215f2a3220.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "サンテレビ",
+            "num": "0181",
+            "urllist": "P2p://170.178.164.245:6190/5b66bfda000e5a0e035393a0f98cea68.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BSプレミアム",
+            "num": "0182",
+            "urllist": "P2p://170.178.164.245:6190/5b66c03c000b8999035511b818f3a90c.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BS日テレ",
+            "num": "0183",
+            "urllist": "P2p://170.178.164.245:6190/5b66be5700068f91034da9eaea866718.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BS朝日",
+            "num": "0184",
+            "urllist": "P2p://170.178.164.245:6190/5b66c0c50006e2ab035727af9e147a78.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BS-TBS",
+            "num": "0185",
+            "urllist": "P2p://170.178.164.245:6190/5b66c0e6000aaf330357a9902850a05f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BSジャパン",
+            "num": "0186",
+            "urllist": "P2p://170.178.164.245:6190/5b66c180000af815035a033371be7d92.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BSフジ",
+            "num": "0187",
+            "urllist": "P2p://170.178.164.245:6190/5b66c1a4000ad2f7035a8fc9edc5cd1e.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "WOWOWプライム",
+            "num": "0188",
+            "urllist": "P2p://170.178.164.245:6190/5b66c30d0007d1ee0360112c17d3df16.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "WOWOWライブ",
+            "num": "0189",
+            "urllist": "P2p://170.178.164.245:6190/5b66c1e40000dca0035b873ceb445768.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "WOWOWシネマ",
+            "num": "0190",
+            "urllist": "P2p://170.178.164.245:6190/5b66c206000748fd035c0db10e6e0a66.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "スター?チャンネル1",
+            "num": "0191",
+            "urllist": "P2p://170.178.164.245:6190/5b66c22100079ceb035c773fe803e0d7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "グリーンチャンネル",
+            "num": "0192",
+            "urllist": "P2p://170.178.164.245:6190/5b66bd870009db89034a7e425206fddb.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "BSアニマックス",
+            "num": "0193",
+            "urllist": "P2p://170.178.164.245:6190/5b66bda40009efc2034aef8f553dc2c3.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "J sports 1",
+            "num": "0194",
+            "urllist": "P2p://170.178.164.245:6190/5b66bdc500054a45034b6f47b6502f7c.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "J sports 2",
+            "num": "0195",
+            "urllist": "P2p://170.178.164.245:6190/5b66be39000b001b034d35dddbbdbb0a.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "J sports 3",
+            "num": "0196",
+            "urllist": "P2p://170.178.164.245:6190/5b66bde20001c4fa034bdfa8aa4208a5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "J sports 4",
+            "num": "0197",
+            "urllist": "P2p://170.178.164.245:6190/5b66bdfb00091ff4034c4332b3ddbfa6.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "日本映画専門チャンネルHD",
+            "num": "0198",
+            "urllist": "P2p://170.178.164.245:6190/5b66bb7c000d7b9a03428437884828fe.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "日テレG+ HD",
+            "num": "0199",
+            "urllist": "P2p://170.178.164.245:6190/5b66bf11000e807203508282ea4b3ded.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "ゴルフネットワークHD",
+            "num": "0200",
+            "urllist": "P2p://170.178.164.245:6190/5b66bd3a00069aeb034950a5fbaf93b3.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "時代劇専門チャンネル",
+            "num": "0201",
+            "urllist": "P2p://170.178.164.245:6190/5b66bc62000151860346038a0e1bfbc7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "ファミリー劇場",
+            "num": "0202",
+            "urllist": "P2p://170.178.164.245:6190/5b66bc93000c56b40346c5c41b9eaa93.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Music Japan TV",
+            "num": "0203",
+            "urllist": "P2p://170.178.164.245:6190/5b66be21000e9b00034cd9093d45e2e7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "キッズステーションHD",
+            "num": "0204",
+            "urllist": "P2p://170.178.164.245:6190/5b66bd5b000c8c0c0349d312bbc9ab38.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "ディスカバリーチャンネル",
+            "num": "0205",
+            "urllist": "P2p://170.178.164.245:6190/5b66bcbf000db103034771fdfb985e1a.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "ヒストリーチャンネル",
+            "num": "0206",
+            "urllist": "P2p://170.178.164.245:6190/5b66bf9c000e3e920352a16964811348.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "グリーンチャン",
+            "num": "0207",
+            "urllist": "P2p://170.178.164.245:6190/5b66c23f00007851035cea9bc81c107d.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TBS",
+            "num": "0208",
+            "urllist": "P2p://170.178.164.245:6190/5b66c25b00067e26035d5985c2d39df1.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NHKBS1",
+            "num": "0209",
+            "urllist": "P2p://170.178.164.245:6190/5b66c330000b265303609abf615e44c4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "KBS1",
+            "num": "0210",
+            "urllist": "P2p://170.178.164.245:6190/5b448e04000371a100100d5632330fd8.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "KBS2",
+            "num": "0211",
+            "urllist": "P2p://170.178.164.245:6190/5b448e05000b504d00101342f1dceab4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBC",
+            "num": "0212",
+            "urllist": "P2p://170.178.164.245:6190/5b448e070002dec2001018e89965440f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SBS",
+            "num": "0213",
+            "urllist": "P2p://170.178.164.245:6190/5b448e08000cf99400101f6712e14914.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "JTBC",
+            "num": "0214",
+            "urllist": "P2p://170.178.164.245:6190/5b448e0a00067c570010258d211acaf8.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "tvN",
+            "num": "0215",
+            "urllist": "P2p://170.178.164.245:6190/5b448e0b000ada4e00102a9305d40b28.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "YTN",
+            "num": "0216",
+            "urllist": "P2p://170.178.164.245:6190/5b448e0d0002e17600103059e4976baf.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TV",
+            "num": "0217",
+            "urllist": "P2p://170.178.164.245:6190/5b448e0e000b73a800103673723c11b7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBN",
+            "num": "0218",
+            "urllist": "P2p://170.178.164.245:6190/5b448e11000498e300104069a522eda5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "A",
+            "num": "0219",
+            "urllist": "P2p://170.178.164.245:6190/5b448e12000e72f0001046d702bae169.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TV",
+            "num": "0220",
+            "urllist": "P2p://170.178.164.245:6190/5b448e140005ccaf00104c70c2149644.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "KBS",
+            "num": "0221",
+            "urllist": "P2p://170.178.164.245:6190/5b448e15000b75b1001051cb8ccb07f3.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBC",
+            "num": "0222",
+            "urllist": "P2p://170.178.164.245:6190/5b448e170005bea0001058252f93f46f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SBS PLus",
+            "num": "0223",
+            "urllist": "P2p://170.178.164.245:6190/5b448e190003fbde00105f813fffa263.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "KBSN",
+            "num": "0224",
+            "urllist": "P2p://170.178.164.245:6190/5b448e1a000c036500106577aa810e7a.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBC+",
+            "num": "0225",
+            "urllist": "P2p://170.178.164.245:6190/5b448e1c000855a000106c56ecd3c20f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBC+2",
+            "num": "0226",
+            "urllist": "P2p://170.178.164.245:6190/5b448e1e000971380010746f78a5e3ad.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SBS",
+            "num": "0227",
+            "urllist": "P2p://170.178.164.245:6190/5b448e20000833e000107bee7cedba30.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TVN",
+            "num": "0228",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2200004400001081b6ffa7e061.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "JTBC",
+            "num": "0229",
+            "urllist": "P2p://170.178.164.245:6190/5b448e23000757130010876d63e89f1f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "SBS",
+            "num": "0230",
+            "urllist": "P2p://170.178.164.245:6190/5b448e24000c08da00108c899b98e551.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "XTM",
+            "num": "0231",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2600028969001091eab8c3d794.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "OCN",
+            "num": "0232",
+            "urllist": "P2p://170.178.164.245:6190/5b448e27000afc5d001097fcb091fcba.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CGV",
+            "num": "0233",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2900051b4b00109e4bf483b94e.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "????",
+            "num": "0234",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2a000ceb320010a43326fd6df4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "iNet",
+            "num": "0235",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2c0007ce390010aab40d350642.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Mnet",
+            "num": "0236",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2e00057f0c0010b1ec73fb6ab5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBC",
+            "num": "0237",
+            "urllist": "P2p://170.178.164.245:6190/5b448e2f000a96d40010b7224439adec.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "MBN",
+            "num": "0238",
+            "urllist": "P2p://170.178.164.245:6190/5b448e330005a43c0010c57ebd887547.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "TV",
+            "num": "0239",
+            "urllist": "P2p://170.178.164.245:6190/5b448e34000b690f0010cae048cb77d7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "??????",
+            "num": "0240",
+            "urllist": "P2p://170.178.164.245:6190/5b448e3600037edb0010d0a9ff6905f0.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "YTNHD",
+            "num": "0241",
+            "urllist": "P2p://170.178.164.245:6190/5b448e37000a83700010d65dd816d582.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "EBS1",
+            "num": "0242",
+            "urllist": "P2p://170.178.164.245:6190/5b448e390005a9fa0010dcef3ea889c7.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CTS",
+            "num": "0243",
+            "urllist": "P2p://170.178.164.245:6190/5b448e3b00057b710010e4b3d82319e5.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "??? TV",
+            "num": "0244",
+            "urllist": "P2p://170.178.164.245:6190/5b448e3d000632b40010ecb2a7efeb8b.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "channel A",
+            "num": "0245",
+            "urllist": "P2p://170.178.164.245:6190/5b448e3f000193950010f354c85a92cf.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV1",
+            "num": "0246",
+            "urllist": "P2p://170.178.164.245:6190/5b448ca9000f0456000ac4d49caf6c61.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV2",
+            "num": "0247",
+            "urllist": "P2p://170.178.164.245:6190/5b448cac0003d92a000acdb091cff5d9.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV3",
+            "num": "0248",
+            "urllist": "P2p://170.178.164.245:6190/5b448cad000d130b000ad3f5213e1b20.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV4",
+            "num": "0249",
+            "urllist": "P2p://170.178.164.245:6190/5b448caf000b989b000adb64df46f2f4.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV5",
+            "num": "0250",
+            "urllist": "P2p://170.178.164.245:6190/5b448cb20002ed17000ae4e4b057a9b8.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV6",
+            "num": "0251",
+            "urllist": "P2p://170.178.164.245:6190/5b448cb40000bb93000aec24dc49688f.ts"
+        },
+        {
+            "itemid": "uid02",
+            "name": "VTV9",
+            "num": "0252",
+            "urllist": "P2p://170.178.164.245:6190/5b448cb9000b2799000b0257c2aa4008.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-HBO原創",
+            "num": "0253",
+            "urllist": "P2p://170.178.164.245:6190/5b448d6600078119000da530a42a69ba.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-翡翠",
+            "num": "0254",
+            "urllist": "P2p://170.178.164.245:6190/5b448cc00002d55e000b1b8ec10db476.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-無線財經台",
+            "num": "0255",
+            "urllist": "P2p://170.178.164.245:6190/5b448cc80004ab93000b3b466bab9526.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-J2",
+            "num": "0256",
+            "urllist": "P2p://170.178.164.245:6190/5b448cc4000c1f7a000b2d8f493a20c8.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-VIU TV",
+            "num": "0257",
+            "urllist": "P2p://170.178.164.245:6190/5b448cca000724f9000b43b833815ef1.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-明珠台",
+            "num": "0258",
+            "urllist": "P2p://170.178.164.245:6190/5b448cce00018507000b51e838ff2f51.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-深圳都市HD",
+            "num": "0259",
+            "urllist": "P2p://170.178.164.245:6190/5b448d0b0003cf81000c40c60798bef2.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "H265-無線新聞台",
+            "num": "0260",
+            "urllist": "P2p://170.178.164.245:6190/5b448cc1000ec34a000b228438dc768c.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "加拿大600新聞台",
+            "num": "0261",
+            "urllist": "P2p://170.178.164.245:6190/http://live.xinflix.com:8080/Lshape/video.m3u8.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "Prima",
+            "num": "0262",
+            "urllist": "P2p://170.178.164.245:6190/5b448e680006187c001194a4e44146f8.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "Ria HD",
+            "num": "0263",
+            "urllist": "P2p://170.178.164.245:6190/5b448e69000a6c99001199a7739d73cb.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "喜悦台HD",
+            "num": "0264",
+            "urllist": "P2p://170.178.164.245:6190/5b448e6b000960490011a1337689ecc0.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TVB经典",
+            "num": "0265",
+            "urllist": "P2p://170.178.164.245:6190/5b448e6c000e478e0011a65cf5c23aa2.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "AEC HD",
+            "num": "0266",
+            "urllist": "P2p://170.178.164.245:6190/5b448e6e0004d5df0011abc13c252656.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "天映频道HD",
+            "num": "0267",
+            "urllist": "P2p://170.178.164.245:6190/5b448e6f000915db0011b0c0e3829c7b.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "华丽台HD",
+            "num": "0268",
+            "urllist": "P2p://170.178.164.245:6190/5b448e7100022f9f0011b6cb00e4d4bf.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TVB星河",
+            "num": "0269",
+            "urllist": "P2p://170.178.164.245:6190/5b448e730001248d0011be5728c2091d.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "天映经典",
+            "num": "0270",
+            "urllist": "P2p://170.178.164.245:6190/5b44915c0001835d001d1c976a285add.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "小太阳",
+            "num": "0271",
+            "urllist": "P2p://170.178.164.245:6190/5b44915e000082b9001d2426fd6552e2.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "Awani",
+            "num": "0272",
+            "urllist": "P2p://170.178.164.245:6190/5b448e75000def680011c96dd789db07.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "SuperSport HD",
+            "num": "0273",
+            "urllist": "P2p://170.178.164.245:6190/5b448e78000a74b10011d441f4b6021b.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "SuperSport 2",
+            "num": "0274",
+            "urllist": "P2p://170.178.164.245:6190/5b448e7a0001e6a40011d9e16b80616d.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "SuperSport 3 HD",
+            "num": "0275",
+            "urllist": "P2p://170.178.164.245:6190/5b448e7c00008b2e0011e1584b6e11f4.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "Astro Shuang Xi...",
+            "num": "0276",
+            "urllist": "P2p://170.178.164.245:6190/5b449153000e2249001cfcaa69c7480f.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CH3O8 Astro Qu..",
+            "num": "0277",
+            "urllist": "P2p://170.178.164.245:6190/5b449155000917e0001d0330756126d5.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CH836 Astro Su..",
+            "num": "0278",
+            "urllist": "P2p://170.178.164.245:6190/5b4491570007f2ea001d0ab54442d6b3.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "AOD",
+            "num": "0279",
+            "urllist": "P2p://170.178.164.245:6190/5b8e4ce3000d89960aa6320bdbd955b5.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "channel 5",
+            "num": "0280",
+            "urllist": "P2p://170.178.164.245:6190/5b448e64000378f00011845830f431c9.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "channel 8",
+            "num": "0281",
+            "urllist": "P2p://170.178.164.245:6190/5b448e62000c817000117ed88fc4d796.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "channel u",
+            "num": "0282",
+            "urllist": "P2p://170.178.164.245:6190/5b449161000345df001d3093735cc563.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "vasantham",
+            "num": "0283",
+            "urllist": "P2p://170.178.164.245:6190/5b448e6100098a5b00117a2df7597ba8.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "okdo",
+            "num": "0284",
+            "urllist": "P2p://170.178.164.245:6190/5b449162000ab0bc001d36612889e6a3.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "surla",
+            "num": "0285",
+            "urllist": "P2p://170.178.164.245:6190/5b4491640008cf1d001d3db678ee4563.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "channel news a.",
+            "num": "0286",
+            "urllist": "P2p://170.178.164.245:6190/5b448e5f000ad146001172b11c966fed.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TVI",
+            "num": "0287",
+            "urllist": "P2p://170.178.164.245:6190/5b449167000ea067001d4aeb0ffed3a6.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TV ALHIJRAH",
+            "num": "0288",
+            "urllist": "P2p://170.178.164.245:6190/5b44916600040a1b001d444df11b16b8.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "BERNAMA TV",
+            "num": "0289",
+            "urllist": "P2p://170.178.164.245:6190/5b448e5e00003a4a00116c13fce0b47f.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TV9",
+            "num": "0290",
+            "urllist": "P2p://170.178.164.245:6190/5b4491690007fab8001d51078c5ae3ab.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TV8",
+            "num": "0291",
+            "urllist": "P2p://170.178.164.245:6190/5b44916a000efd40001d56bbc9a616f3.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "NTV7",
+            "num": "0292",
+            "urllist": "P2p://170.178.164.245:6190/5b448e5c000381200011651a7543286c.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TV3",
+            "num": "0293",
+            "urllist": "P2p://170.178.164.245:6190/5b448e5a0005465000115dbe38cd9b42.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TV2",
+            "num": "0294",
+            "urllist": "P2p://170.178.164.245:6190/5b448e5800027d9a001155379bbf8e09.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "TV1",
+            "num": "0295",
+            "urllist": "P2p://170.178.164.245:6190/5b448e560002f54300114d86ceb667a9.ts"
+        },
+        {
+            "itemid": "uid03",
+            "name": "MAYA",
+            "num": "0296",
+            "urllist": "P2p://170.178.164.245:6190/5b8e4c8500020c570aa4bfeacc9dac00.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "HAPPY",
+            "num": "0297",
+            "urllist": "P2p://170.178.164.243:6210/5b448cd10007f264000b5f45f388fd6e.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "HOT",
+            "num": "0298",
+            "urllist": "P2p://170.178.164.243:6210/5b448cd6000329d7000b7194c6f06352.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "潘朵拉玩美",
+            "num": "0299",
+            "urllist": "P2p://170.178.164.243:6210/5b448cd8000b792c000b7b84b411ee82.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "潘朵拉粉紅",
+            "num": "0300",
+            "urllist": "P2p://170.178.164.243:6210/5b448cdc000563cc000b899558714265.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "松視1臺",
+            "num": "0301",
+            "urllist": "P2p://170.178.164.243:6210/5b448cdf000c86d2000b97210f41bf0a.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "松視2臺",
+            "num": "0302",
+            "urllist": "P2p://170.178.164.243:6210/5b448ce3000abcb9000ba64c1e07d690.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "松視3臺",
+            "num": "0303",
+            "urllist": "P2p://170.178.164.243:6210/5b448ce6000b1ec3000bb21d8beebcb9.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "驚豔電影臺",
+            "num": "0304",
+            "urllist": "P2p://170.178.164.243:6210/5b448ce90003aafc000bbbed0a86ba1f.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "彩虹e臺",
+            "num": "0305",
+            "urllist": "P2p://170.178.164.243:6210/5b448ceb00099801000bc541be95c6ea.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "彩虹MOIV",
+            "num": "0306",
+            "urllist": "P2p://170.178.164.243:6210/5b448cee0008f760000bd0d0f0c4d991.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "K頻道",
+            "num": "0307",
+            "urllist": "P2p://170.178.164.243:6210/5b448cf1000cc439000bdd81e4fafa61.ts"
+        },
+        {
+            "itemid": "uid04",
+            "name": "香蕉臺",
+            "num": "0308",
+            "urllist": "P2p://170.178.164.243:6210/5b448cf50001f8ea000bea5d07616b46.ts"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid00",
+            "name": "港台"
+        },
+        {
+            "id": "uid01",
+            "name": "国内"
+        },
+        {
+            "id": "uid02",
+            "name": "海外"
+        },
+        {
+            "id": "uid03",
+            "name": "杂"
+        },
+        {
+            "id": "uid04",
+            "name": "cr"
+        }
+    ]
+}
